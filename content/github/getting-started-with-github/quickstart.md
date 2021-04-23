@@ -1,7 +1,7 @@
 ---
 title: Quickstart
 intro: 'Quickly get started with common tasks on {% data variables.product.prodname_dotcom %}.'
-mapTopic: true
+mapTopic: no true
 versions:
   free-pro-team: '*'
   enterprise-server: '*'
